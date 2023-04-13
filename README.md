@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="Print/Print.jpg" width="150" height="300">
+  <img src="Print/Print.jpg" width="400" height="150">
 </h1>
 
 <p align="center">
